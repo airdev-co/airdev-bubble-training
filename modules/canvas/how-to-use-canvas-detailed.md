@@ -15,7 +15,11 @@ This guide is also available in a form with more images in the Practice using Ca
 
 ### Link to Page Builder resources, already covered in intro and other places
 
-To use the page builder, you must access it from [the Canvas dashboard](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps). \(.....\) TODO
+To use the page builder, you must access it from [the Canvas dashboard](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps). After selecting the app you'd like to modify, press "Add a Page" and follow the dialogue to be redirected to the Canvas Page Builder.
+
+![Press &quot;Add a Page&quot; to be redirected to the page editor.](../../.gitbook/assets/screenshot-from-2019-11-11-20-35-00.png)
+
+Once in the page builder, you can add 
 
 ### Schedule a call with a Bubble Expert through Canvas
 

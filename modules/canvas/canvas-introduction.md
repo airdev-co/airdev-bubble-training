@@ -44,7 +44,7 @@ See our exercise \(Practice using Canvas\) for a detailed walkthrough of how to 
 
 #### Page Builder Walkthrough - add pages and elements to your app
 
-Click [here ](https://www.youtube.com/watch?v=v3IvsVQvCj8)to watch a short video tutorial on how to create a new app and use the Canvas Portal to add pages and modules to your app. You'll need to use one of our Canvas templates \(e.g. [this free one](https://bubble.io/template/canvas-starter-template-1541110863579x114287102114398200)\) in order to do this.
+Click [here ](https://www.youtube.com/watch?v=v3IvsVQvCj8)to watch a short video tutorial on how to create a new app and use the Canvas Portal to add pages and modules to your app. You'll need to use one of our Canvas templates \(e.g. [this free one](https://bubble.io/template/canvas-starter-template-1541110863579x114287102114398200)\) in order to do this. We also have a more detailed video walkthrough [available here](https://www.youtube.com/watch?v=Hr5sUmPrDYA&feature=emb_logo).
 
 If you prefer to read and see pictures of how this works, check out the "Practice using Canvas" section of this module. 
 
