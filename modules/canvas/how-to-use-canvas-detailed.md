@@ -1,18 +1,8 @@
 # How to Use Canvas \(detailed\)
 
-### Link to Page Builder resources, already covered in intro and other places
-
-To use the page builder, you must access it from [the Canvas dashboard](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps). Here is some documentation on the Page Builder.
-
-### Schedule a call with a Bubble Expert through Canvas
-
-
-
 ### How to create a new app and add it to canvas
 
-#### Overview
-
-We'll walk you through these steps below with accompanying images. Here's an outline of how to get your app started on Canvas:
+This guide is also available in a form with more images in the Practice using Canvas page of this documentation.
 
 * [Sign up for Bubble](https://bubble.io) if you don't already have an account
 * [Get an AirDev Canvas Template](https://bubble.io/template/canvas-starter-template-1541110863579x114287102114398200) for the creation of your new Bubble app
@@ -23,11 +13,27 @@ We'll walk you through these steps below with accompanying images. Here's an out
 * [Go to _MY STUFF_ tab in Canvas Portal](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps) to view all of your registered apps with Canvas Portal
 * After your app is registered, you can click _VIEW DETAILS_ to add pages and modules.
 
+### Link to Page Builder resources, already covered in intro and other places
+
+To use the page builder, you must access it from [the Canvas dashboard](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps). \(.....\) TODO
+
+### Schedule a call with a Bubble Expert through Canvas
+
+To schedule a call with a Bubble Expert, access the [_Connect with an Expert Tab_](https://canvas.airdev.co/index?tab=connect%20with%20an%20expert&sub=apps) in the Canvas dashboard.
+
+![You can select &quot;Hire an expert&quot; or click on the &quot;Connect with an Expert&quot; tab in Canvas to see this section.](../../.gitbook/assets/screenshot-from-2019-11-11-20-35-00.png)
+
+![View of beginning steps in connecting with an expert.](../../.gitbook/assets/fireshot-capture-002-canvas-bubble-resources_-the-ultimate-bubble-development-resource_-canvas.airde.png)
+
 ### Explanation of how to update colors
 
-text
+One of the tools that comes with AirDev Canvas is the color updater. This updates the colors for all the Canvas styles included with your app. It can be found in the My Apps section of the Canvas Dashboard, the same place as the Page Updater and Hire an Expert buttons.
+
+In order to use this tool, you'll need to select a primary, secondary and tertiary color you'd like to set up for your app. Colors are entered as "Hex Codes", and you can use [this site to find the hex code for a number of different colors](https://htmlcolorcodes.com/)., By default, the following colors are found in your app: 4183D7 \(blue\), 25D3B0 \(green\), and ED3E44 \(red\). Here is an example
+
+![Example of a color change. Note the previews of the colors on the right hand side of the inputs.](../../.gitbook/assets/screenshot-from-2019-11-11-20-52-24.png)
 
 ### Explanation of how to update styles
 
-text
+TODO
 

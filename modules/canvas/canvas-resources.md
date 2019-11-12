@@ -4,7 +4,7 @@ This is a collection of resources related to AirDev Canvas. If you have addition
 
 ### More information on Canvas Template \(pages, data types, styles, etc.\)
 
-In our [Canvas Template Reference](https://docs.airdev.co/canvas/), there is detailed documentation on how different parts of the app work and why they are.
+In our [Canvas Template Reference](https://docs.airdev.co/canvas/), there is detailed documentation on how different parts of the app work and why they are. In particular, the [Quickstart guide ](https://docs.airdev.co/canvas/quickstart-guide)is quite useful.
 
 ### List of Pages and Modules
 
