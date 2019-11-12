@@ -1,28 +1,12 @@
 # Canvas Resources
 
-intro
-
-### Link to Page Builder resources, already covered in intro and other places
-
-To use the page builder, go to this link. Here is some documentation on the Page Builder.
-
-### Schedule a call with a Bubble Expert through Canvas
-
-For more info, see our [Canvas Reference](https://docs.airdev.co/canvas/) \(detailed documentation\) or view the [pages and modules available in Canvas](https://docs.airdev.co/canvas-app-design-reference/steps/design/add-pages-and-modules) \(some free, some for Premium subscribers\).
-
-### Explanation of how to update colors
-
-text
-
-### Explanation of how to update styles
-
-text
+This is a collection of resources related to AirDev Canvas. If you have additional questions that you feel aren't covered by this documentation, or can't find what you're looking for, please let us know. 
 
 ### More information on Canvas Template \(pages, data types, styles, etc.\)
 
+In our [Canvas Template Reference](https://docs.airdev.co/canvas/), there is detailed documentation on how different parts of the app work and why they are.
 
+### List of Pages and Modules
 
-### Links to ALL documentation, compiled here
-
-text
+View the [pages and modules available in Canvas](https://docs.airdev.co/canvas-pages-and-modules/v/2.0.0/) \(some free, some for Premium subscribers\). These are the things that you can add to your app through the Canvas Page builder.
 

@@ -14,6 +14,7 @@
 * [Speed/Performance](modules/speed-performance.md)
 * [Canvas](modules/canvas/README.md)
   * [Canvas Introduction](modules/canvas/canvas-introduction.md)
+  * [How to Use Canvas \(detailed\)](modules/canvas/how-to-use-canvas-detailed.md)
   * [Canvas Resources](modules/canvas/canvas-resources.md)
   * [Practice using Canvas](modules/canvas/practice-using-canvas.md)
 * [Planning & Scoping](modules/planning-and-scoping.md)
