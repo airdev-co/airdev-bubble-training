@@ -12,6 +12,9 @@
 * [Building Modularly](modules/building-modularly.md)
 * [Security](modules/security.md)
 * [Speed/Performance](modules/speed-performance.md)
-* [Canvas](modules/canvas.md)
+* [Canvas](modules/canvas/README.md)
+  * [Canvas Introduction](modules/canvas/canvas-introduction.md)
+  * [Canvas Resources](modules/canvas/canvas-resources.md)
+  * [Practice using Canvas](modules/canvas/practice-using-canvas.md)
 * [Planning & Scoping](modules/planning-and-scoping.md)
 
