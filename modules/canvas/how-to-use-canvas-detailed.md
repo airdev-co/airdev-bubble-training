@@ -15,11 +15,20 @@ This guide is also available in a form with more images in the Practice using Ca
 
 ### Link to Page Builder resources, already covered in intro and other places
 
+\(TODO:\) Explain what the page builder is
+
 To use the page builder, you must access it from [the Canvas dashboard](https://canvas.airdev.co/index?tab=my%20stuff&sub=apps). After selecting the app you'd like to modify, press "Add a Page" and follow the dialogue to be redirected to the Canvas Page Builder.
 
 ![Press &quot;Add a Page&quot; to be redirected to the page editor.](../../.gitbook/assets/screenshot-from-2019-11-11-20-35-00.png)
 
-Once in the page builder, you can add 
+  
+The first step is to add a page template from which your new page will be created. There are two free page templates and a growing number of premium ones.
+
+![](../../.gitbook/assets/screenshot-from-2019-11-12-09-50-45.png)
+
+When adding the template, you may be prompted to update your styles - if your app is newly created from the Canvas Template, this won't happen. A more detailed description is available below.‌
+
+After your page has a template, you can either create the page \(by pressing Submit and following that dialogue\) or add groups to your page. These groups include functionality such as fully built Chat module \(complete with a database structure\), a YouTube video display group, dashboard-like repeating groups, and many more. [For a full list of available page templates and groups, see here.](https://docs.airdev.co/canvas-pages-and-modules/v/2.0.0/)
 
 ### Schedule a call with a Bubble Expert through Canvas
 
